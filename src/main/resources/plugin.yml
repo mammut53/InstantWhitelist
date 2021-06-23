@@ -1,0 +1,7 @@
+name: InstantWhitelist
+version: ${project.version}
+main: me.mammut53.instantwhitelist.InstantWhitelist
+api-version: 1.17
+prefix: InstantWhitelist
+authors: [ mammut53 ]
+description: Allows changes to the whitelist.json to be applied instantly
